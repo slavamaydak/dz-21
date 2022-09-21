@@ -1,0 +1,296 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Poppins";
+}
+
+.header {
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,fit=crop/stornowayj2oil/heroimage-A1aVeGeGzkheyzwj.png");
+    background-size: cover;
+    height: 140vh;
+max-width: 100%;
+}
+
+.otstup {
+    width: 1200px;
+    margin: auto;
+    height: 100%;
+}
+
+.meny-title {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-transform: uppercase ;
+    font-weight: 600;
+    margin-right: 400px;
+}
+
+.links{
+color: rgb(255, 255, 255);
+font-size: 17px;
+font-weight: 400;
+text-decoration: none;
+margin-right: 60px;
+}
+
+.links:hover {
+    border-bottom: 2px solid white;
+
+}
+
+.meny {
+    display: flex;
+    align-items: center; 
+    padding-top: 40px;
+}
+
+
+.s-1-title {
+    color: white;
+    font-weight: 600;
+    font-size: 95px;
+    margin-bottom: 70px;
+}
+
+.s-1-title-div {
+    margin-top: 50vh;
+    text-align: center;
+}
+
+.s-1-bottom {
+    text-decoration: none;
+    color: black;
+    padding: 20px 50px;
+    background-color: white;
+   
+}
+
+.s-1-bottom:hover {
+    background-color: black;
+color: white;
+}
+
+
+
+.s-2 {
+    margin: 200px 0px;
+}
+
+.xui{
+    
+   text-align: center;
+}
+
+.otstup-2 {
+    width: 600px;
+    margin: auto;
+    height: 100%;
+}
+
+.s-2-title {
+    font-weight: 600;
+    color: black;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.s-2-text {
+    font-weight: 200;
+    font-size: 16px;
+    margin-bottom: 75px;
+}
+
+.s-2-bottom {
+    text-decoration: none;
+    color: white;
+    padding: 20px 50px;
+    background-color: black;
+    
+}
+
+.s-2-bottom:hover{
+    background-color: rgb(59, 59, 59);
+}
+
+
+
+.s-3 {
+    background-color: black;
+    background-size: cover;
+    height: 140vh;
+}
+
+.s-3-title {
+    color: white;
+    font-weight: 600;
+    font-size: 60px;
+    padding: 120px 0px 60px 0px;
+    text-align: center;
+}
+
+.s-3-galery{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.s-3-galery-div{
+    text-align: center;
+}
+
+.s-3-galery-foto{
+    width: 380px;
+    margin: 10px;
+}
+
+.s-3-galery-text {
+    color: white;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.s-3-bottom {
+    text-decoration: none;
+    color: black;
+    padding: 20px 50px;
+    background-color: white;
+    
+}
+
+.s-3-bottom:hover{
+    color: white;
+    background-color: rgb(34, 34, 34);
+}
+
+.s-3-div {
+ text-align: center;
+ margin-top: 100px;
+}
+
+
+
+.s-4 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.left {
+    width: 410px;
+    margin: 150px 150px 200px 150px;
+}
+
+.left-title {
+    font-weight: 600;
+    font-size: 60px;
+    margin-bottom: 25px;
+}
+
+.left-text {
+    font-size: 16px;
+    margin-bottom: 85px;
+}
+
+.left-bottom {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 20px 50px;
+    background-color: rgb(2, 2, 2);
+}
+
+.left-bottom:hover {
+    background-color: rgb(43, 43, 43);
+}
+
+
+
+.right {
+    margin: 150px;
+    align-items: center;
+}  
+
+.right-pop{
+    list-style: none;
+    font-size: 25px;
+    font-weight: 200;
+    margin-bottom: 45px;
+
+}
+
+.right-number {
+    font-weight: 600;
+    font-size: 60px;
+    margin-right: 25px;
+}
+
+
+
+.s-5 {
+    background-image: url(2022-09-17\ 13.55.50.jpg);
+    background-size: cover;
+    height: 100vh;
+max-width: 100%;
+}
+
+.s-5-header {
+    width: 390px;
+    float: right;
+    margin: 175px 200px 200px 0px;
+}
+
+.s-5-title {
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.s-5-text {
+    font-weight: 200;
+    font-size: 15px;
+    margin:10px 0px 60px 0px ;
+}
+
+.s-5-bottom {
+    text-decoration: none;
+    color: rgb(255, 251, 251);
+    padding: 20px 50px;
+    background-color: rgb(0, 0, 0);
+}
+
+.s-5-bottom:hover {
+    background-color: rgb(48, 48, 48);
+}
+
+
+
+.s-6 {
+    background-color: black;
+    height: 70vh;
+}
+
+.s-6-header {
+    display: flex;
+padding-top: 130px;
+}
+    
+.s-6-left {
+    padding-left: 100px;
+}
+
+.s-6-title {
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.s-6-right {
+    max-width: 220px;
+    padding-left: 670px;
+}
+
+.s-6-text-1 {
+    color: rgb(255, 255, 255);
+    margin-bottom: 70px;
+}
+
+.s-6-text-2 {
+    color: rgb(255, 255, 255);
+}
